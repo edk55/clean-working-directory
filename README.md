@@ -2,7 +2,7 @@
 
 This github action will delete files, so firstly, please check out the `post.js` file.
 
-This action deletes `/home/runner/_work` on the post action (after all jobs are done).
+This action deletes `/home/runner/_work` on the `Post Run action` (after all jobs are done).
 
 ## Example usage
 

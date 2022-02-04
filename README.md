@@ -12,7 +12,7 @@ jobs:
     runs-on: self-hosted
     steps:
       # the deletion of the working directory will be done after the other jobs are finished
-      - uses: edk55/clean-working-directory@main
+      - uses: edk55/clean-working-directory@v1
       # other jobs go here...
       - run: ls /home/runner/_work
 ```

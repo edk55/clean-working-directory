@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 fs.rm(
   '/home/runner/_work',
   {

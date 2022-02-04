@@ -1,0 +1,8 @@
+{
+  "name": "clean-working-directory",
+  "version": "1.0.0",
+  "description": "Github action to remove the working directory of the self-hosted runner",
+  "keywords": [],
+  "author": "Eugene Korobkov (e@korobkov.io)",
+  "license": "MIT"
+}

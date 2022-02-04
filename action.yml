@@ -1,0 +1,6 @@
+name: "Clean self-runner working dir"
+description: "Delete the entire folder /home/runner/_work"
+runs:
+  using: "node16"
+  main: "main.js"
+  post: "post.js"

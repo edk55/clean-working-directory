@@ -1,4 +1,4 @@
-# Clear working directory
+# Clean working directory
 
 This github action will delete files, so firstly, please check out the `post.js` file.
 
